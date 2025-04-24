@@ -1,0 +1,25 @@
+{
+  "name": "pharmeasy-master",
+  "version": "1.0.0",
+  "description": "This is a working clone...",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heynikzz/intern_assignment_website_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heynikzz/intern_assignment_website_/issues"
+  },
+  "homepage": "https://github.com/heynikzz/intern_assignment_website_#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
+
+
